@@ -1,0 +1,38 @@
+body{
+    background-color:white;
+    background-image:url("https://cdn.pixabay.com/photo/2018/12/08/15/14/elephants-3863475_960_720.jpg"); 
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: 52cm;
+}
+
+h1{
+    color: white;
+    font-style: bold,italic;
+    font-family:Trebuchet, Arial, Verdana;
+    font-size: 30px;
+    text-align: center;
+}
+p{
+    color:white;
+    padding: 50px;
+    text-align: justify;
+}
+h2{
+    background-color: white;
+    color: blue;
+    text-align: center;
+}
+table{
+    width: 50cm;
+    height: 35cm;
+}
+.tabla_aves{
+    border: 5px dashed rgb(221, 141, 141);
+    padding: 8px;
+    text-align: center;
+    background-image: url("https://i.gifer.com/5RvJ.gif");
+    color: white;
+    width: 1000px;
+    height: 700px;
+}
